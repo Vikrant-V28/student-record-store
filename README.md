@@ -1,4 +1,8 @@
-## Python program to sort and fond the data in student records.
+<div align="center">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/156916372-d8c1bbdd-5fe9-40d1-a250-5a1d4d454832.png">
+</div>
+
+# Python program to sort and fond the data in student records.
 #### Difficulty Lavel: Medium
 
 Consider a software for maintaining records of the students in a class. Consider the following functions which are required to be performed:
