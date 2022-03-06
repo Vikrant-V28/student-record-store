@@ -18,6 +18,13 @@ Consider a software for maintaining records of the students in a class. Consider
 3. searchdetail( ) function that takes first name as an input and fetch student contact number from the corresponding record.
 4. option() function for showing the options.
 
+### Prerequisites
+`Python 3`
+
+### How to run the script
+Execute 
+> python StudentInfo.py
+
 ```Python3
 print("*********Program for Student Information*********")
 
@@ -146,3 +153,6 @@ def option():
 option()
 
 ```
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
