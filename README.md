@@ -1,5 +1,5 @@
-# Python program to sort and fond the data in student records.
-Difficulty Lavel: Medium
+## Python program to sort and fond the data in student records.
+#### Difficulty Lavel: Medium
 
 Consider a software for maintaining records of the students in a class. Consider the following functions which are required to be performed:
 
